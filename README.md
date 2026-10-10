@@ -23,7 +23,7 @@ Je m'intéresse aux innovations adaptées au contexte ouest-africain : agricultu
 
 ## 🔭 Sur quoi je travaille actuellement
 
-- **IA portable sur clé USB :** un modèle de langage open source qui tourne depuis une clé USB, sans installation ni cloud, pour assister les tâches de bureautique. Des outils déterministes (conversion, OCR) exécutent les opérations sensibles, tandis que le LLM comprend la demande. Conçu pour les contextes à connectivité limitée et la confidentialité des documents. *En cours de développement.*
+- **IA portable sur clé USB :** Une clé USB qui embarque une IA locale et gratuite pour la bureautique (résumé, correction, conversion PDF vers Word), sans connexion Internet.*
 - **Détection de requins :** modèle YOLO entraîné sur Google Colab, avec annotation des images sous CVAT.
 - **SEN-HealthMap :** indice composite de vulnérabilité sanitaire (ITVS) avec cartographie géospatiale, pour l'ANSD Hackathon 2026.
 
