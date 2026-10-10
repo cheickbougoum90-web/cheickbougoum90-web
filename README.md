@@ -1,6 +1,5 @@
 ## Bonjour, je suis BOUGOUM Cheïck Abdoul Aziz 👋
 
- 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=%C3%89l%C3%A8ve+ing%C3%A9nieur+Donn%C3%A9es+%26+IA+%C3%A0+l'ESMT;Bases+de+donn%C3%A9es+SQL+%26+NoSQL;%C3%80+la+recherche+d'un+stage+Ing%C3%A9nieur+Base+de+Donn%C3%A9es;Dakar,+S%C3%A9n%C3%A9gal+%F0%9F%87%B8%F0%9F%87%B3" alt="Typing SVG" />
 </div>
