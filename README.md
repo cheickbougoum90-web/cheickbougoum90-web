@@ -1,62 +1,63 @@
-## Hi there, I'm [Your Name] 👋
+## Bonjour, je suis Cheick Abdoul Aziz BOUGOUM 👋
 
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=%C3%89tudiant+ing%C3%A9nieur+Data+%26+IA;T%C3%A9l%C3%A9coms+%2B+Intelligence+Artificielle;Innovation+pour+le+d%C3%A9veloppement+de+l'Afrique+de+l'Ouest;Dakar,+S%C3%A9n%C3%A9gal+%F0%9F%87%B8%F0%9F%87%B3" alt="Typing SVG" />
 </div>
 
-<!-- 🔗 Update these links with your own social media and contact information -->
+<!-- 🔗 Remplace ces liens par tes vrais liens de contact -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://linkedin.com/in/ton-profil"><img src="https://img.shields.io/badge/LinkedIn-Me_contacter-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/cheickbougoum90-web"><img src="https://img.shields.io/badge/GitHub-Mon_profil-181717?style=for-the-badge&logo=github"></a>
+  <a href="mailto:ton.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+## 🚀 À propos de moi
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+Je suis étudiant en troisième année du cycle ingénieur (INGC3) à l'**ESMT Dakar** (École Supérieure Multinationale des Télécommunications), spécialisé en **Data & IA (InDIA)**. Basé à Dakar, au Sénégal, j'ai des attaches au Burkina Faso.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+Ma formation initiale en télécommunications (transmission numérique, VoIP, routage réseau, ingénierie de trafic, microprocesseurs) nourrit directement mon travail en données et en intelligence artificielle. J'aime relier ces deux mondes : des réseaux solides pour acheminer la donnée, et des modèles pour en tirer de la valeur.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
-      
-## 🔭 What I'm Currently Working On 
+Je m'intéresse aux innovations adaptées au contexte ouest-africain : agriculture intelligente, sécurité en zone rurale, diagnostic de santé en environnement à faibles ressources. J'adore le moment « eurêka » où les données révèlent quelque chose de nouveau et d'utile.
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+### [🏆 Découvrez mon portfolio complet](https://cheickbougoum90-web.github.io/)
 
-## 🌱 Currently Learning 
+## 🔭 Sur quoi je travaille actuellement
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- **SEN-HealthMap :** indice composite de vulnérabilité sanitaire (ITVS) avec cartographie géospatiale, pour l'ANSD Hackathon 2026.
+- **Cœur de réseau 5G :** déploiement d'Open5GS sur VM Ubuntu et connexion d'une gNB pour un test de bout en bout.
+- **Détection de requins :** modèle YOLO entraîné sur Google Colab, avec annotation des images sous CVAT.
+- **Architecture SDN :** Mininet, Floodlight et FastAPI conteneurisés.
+- **Plateforme e-learning offline-first :** projet de systèmes distribués pour les zones à connectivité limitée.
 
-## 🛠️ Technical Skillset
+## 🌱 Ce que j'apprends en ce moment
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+- Vision par ordinateur et détection d'objets avec YOLO.
+- Virtualisation des fonctions réseau (NFV) et dimensionnement d'un cœur 5G SA.
+- Bases de données NoSQL (MongoDB, Neo4j) et Business Intelligence.
 
-#### Data Analysis & Visualization
+## 🛠️ Compétences techniques
+
+#### Data & Intelligence Artificielle
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/YOLO-Vision_par_ordinateur-00FFFF?style=flat&logoColor=black" alt="YOLO">
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" alt="Google Colab">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white" alt="Neo4j">
 </p>
 
-#### Programming & Automation
+#### Réseaux & Télécommunications
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <img src="https://img.shields.io/badge/5G-Open5GS-0A66C2?style=flat" alt="Open5GS">
+  <img src="https://img.shields.io/badge/SDN-Mininet%20%2B%20Floodlight-FF6B6B?style=flat" alt="SDN">
+  <img src="https://img.shields.io/badge/NFV-Virtualisation-4ECDC4?style=flat" alt="NFV">
+  <img src="https://img.shields.io/badge/VoIP-Routage-45B7D1?style=flat" alt="VoIP">
 </p>
 
-#### Business Intelligence & Analytics
+#### Développement & Outils
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
 </p>
