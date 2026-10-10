@@ -26,15 +26,6 @@ Ma formation initiale en télécommunications (transmission numérique, ToIP, ro
 - **Détection de requins :** modèle YOLO entraîné sur Google Colab, avec annotation des images sous CVAT.
 - **SEN-HealthMap :** indice composite de vulnérabilité sanitaire (ITVS) avec cartographie géospatiale, pour l'ANSD Hackathon 2026.
 
-## 📁 Projets réalisés
-
-- **Bases de données avancées (NoSQL et réparties) :** API RESTful avec MongoDB Atlas (48 895 documents Airbnb NYC), ReplicaSet à 4 nœuds (Oplog, élections, Read/Write Concerns), gestion des accès, sauvegarde et restauration.
-- **Système d'Information Décisionnel Agricole :** processus ETL complet sur des données agricoles du Sénégal et modélisation en data warehouse pour l'aide à la décision.
-- **Big Data :** analyse de données de ventes avec HDFS, YARN et Hive, et pipeline distribué (batch et streaming) avec Spark, Docker, Java et Scala.
-- **Administration VMware ESXi 6.5 :** architecture de virtualisation, datastores, supervision et stratégie de sauvegarde au sein d'une équipe de 11 étudiants.
-- **Détection de fraude Mobile Money (DataTour 2026) :** gradient boosting sur données transactionnelles réelles, optimisation de la PR AUC.
-- **Bases NoSQL MongoDB et Neo4j :** modélisation de graphes et de documents, jeux de requêtes pratiques.
-
 ## 🌱 Ce que j'apprends en ce moment
 
 - Certification Data Engineer (en cours).
