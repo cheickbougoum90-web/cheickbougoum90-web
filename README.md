@@ -23,17 +23,15 @@ Je m'intéresse aux innovations adaptées au contexte ouest-africain : agricultu
 
 ## 🔭 Sur quoi je travaille actuellement
 
-- **SEN-HealthMap :** indice composite de vulnérabilité sanitaire (ITVS) avec cartographie géospatiale, pour l'ANSD Hackathon 2026.
-- **Cœur de réseau 5G :** déploiement d'Open5GS sur VM Ubuntu et connexion d'une gNB pour un test de bout en bout.
+- **IA portable sur clé USB :** un modèle de langage open source qui tourne depuis une clé USB, sans installation ni cloud, pour assister les tâches de bureautique. Des outils déterministes (conversion, OCR) exécutent les opérations sensibles, tandis que le LLM comprend la demande. Conçu pour les contextes à connectivité limitée et la confidentialité des documents. *En cours de développement.*
 - **Détection de requins :** modèle YOLO entraîné sur Google Colab, avec annotation des images sous CVAT.
-- **Architecture SDN :** Mininet, Floodlight et FastAPI conteneurisés.
-- **Plateforme e-learning offline-first :** projet de systèmes distribués pour les zones à connectivité limitée.
+- **SEN-HealthMap :** indice composite de vulnérabilité sanitaire (ITVS) avec cartographie géospatiale, pour l'ANSD Hackathon 2026.
 
 ## 🌱 Ce que j'apprends en ce moment
 
 - Vision par ordinateur et détection d'objets avec YOLO.
-- Virtualisation des fonctions réseau (NFV) et dimensionnement d'un cœur 5G SA.
-- Bases de données NoSQL (MongoDB, Neo4j) et Business Intelligence.
+- Exécution locale de modèles de langage (llama.cpp, quantification) sur du matériel modeste.
+- Analyse géospatiale et construction d'indices composites.
 
 ## 🛠️ Compétences techniques
 
