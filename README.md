@@ -1,61 +1,96 @@
-## Bonjour, je suis Cheick Abdoul Aziz BOUGOUM 👋
+## Bonjour, je suis BOUGOUM Cheïck Abdoul Aziz 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=%C3%89tudiant+ing%C3%A9nieur+Data+%26+IA;T%C3%A9l%C3%A9coms+%2B+Intelligence+Artificielle;Innovation+pour+le+d%C3%A9veloppement+de+l'Afrique;Dakar,+S%C3%A9n%C3%A9gal+%F0%9F%87%B8%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=%C3%89l%C3%A8ve+ing%C3%A9nieur+Donn%C3%A9es+%26+IA+%C3%A0+l'ESMT;Bases+de+donn%C3%A9es+SQL+%26+NoSQL;%C3%80+la+recherche+d'un+stage+Ing%C3%A9nieur+Base+de+Donn%C3%A9es;Dakar,+S%C3%A9n%C3%A9gal+%F0%9F%87%B8%F0%9F%87%B3" alt="Typing SVG" />
 </div>
 
-<!-- 🔗 Remplace ces liens par tes vrais liens de contact -->
 <p align="center">
-  <a href="https://linkedin.com/in/ton-profil"><img src="https://img.shields.io/badge/LinkedIn-Me_contacter-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://linkedin.com/in/che%C3%AFck-abdoul-aziz-bougoum-7264243aa"><img src="https://img.shields.io/badge/LinkedIn-Me_contacter-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://github.com/cheickbougoum90-web"><img src="https://img.shields.io/badge/GitHub-Mon_profil-181717?style=for-the-badge&logo=github"></a>
-  <a href="mailto:ton.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:cheickbougoum90@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ## 🚀 À propos de moi
 
-Je suis étudiant en troisième année du cycle ingénieur (INGC3) à l'**ESMT Dakar** (École Supérieure Multinationale des Télécommunications), spécialisé en **Data & IA (InDIA)**. Basé à Dakar, au Sénégal, j'ai des attaches au Burkina Faso.
+Élève ingénieur en dernière année à l'**ESMT Dakar** (École Supérieure Multinationale des Télécommunications), spécialisé en **Données et Intelligence Artificielle (InDIA)**. Je suis basé à Dakar, au Sénégal, avec des attaches au Burkina Faso.
 
-Ma formation initiale en télécommunications (transmission numérique, VoIP, routage réseau, ingénierie de trafic, microprocesseurs) nourrit directement mon travail en données et en intelligence artificielle. J'aime relier ces deux mondes : des réseaux solides pour acheminer la donnée, et des modèles pour en tirer de la valeur.
+J'ai une pratique concrète de la conception, de l'administration et de l'optimisation de bases de données SQL et NoSQL. Rigoureux et méthodique, je recherche un **stage d'Ingénieur Base de Données** pour contribuer à la performance, à la disponibilité et à la sécurité des bases de données d'un groupe multi-pays. Je suis disponible en télétravail ou en présentiel.
 
-Je m'intéresse aux innovations adaptées au contexte ouest-africain : agriculture intelligente, sécurité en zone rurale, diagnostic de santé en environnement à faibles ressources. J'adore le moment « eurêka » où les données révèlent quelque chose de nouveau et d'utile.
+Ma formation initiale en télécommunications (transmission numérique, ToIP, routage, virtualisation, systèmes embarqués) nourrit mon travail en données et en IA. Je m'intéresse aux innovations adaptées au contexte ouest-africain : agriculture intelligente, sécurité en zone rurale, diagnostic de santé en environnement à faibles ressources.
 
 ### [🏆 Découvrez mon portfolio complet](https://cheickbougoum90-web.github.io/)
 
 ## 🔭 Sur quoi je travaille actuellement
 
-- **IA portable sur clé USB :** Une clé USB qui embarque une IA locale et gratuite pour la bureautique (résumé, correction, conversion PDF vers Word), sans connexion Internet.*
+- **IA portable sur clé USB :** un modèle de langage open source qui tourne depuis une clé USB, sans installation ni cloud, pour assister les tâches de bureautique. Des outils déterministes (conversion, OCR) exécutent les opérations sensibles, tandis que le LLM comprend la demande. Conçu pour les contextes à connectivité limitée et la confidentialité des documents. *En cours de développement.*
 - **Détection de requins :** modèle YOLO entraîné sur Google Colab, avec annotation des images sous CVAT.
 - **SEN-HealthMap :** indice composite de vulnérabilité sanitaire (ITVS) avec cartographie géospatiale, pour l'ANSD Hackathon 2026.
 
+## 📁 Projets réalisés
+
+- **Bases de données avancées (NoSQL et réparties) :** API RESTful avec MongoDB Atlas (48 895 documents Airbnb NYC), ReplicaSet à 4 nœuds (Oplog, élections, Read/Write Concerns), gestion des accès, sauvegarde et restauration.
+- **Système d'Information Décisionnel Agricole :** processus ETL complet sur des données agricoles du Sénégal et modélisation en data warehouse pour l'aide à la décision.
+- **Big Data :** analyse de données de ventes avec HDFS, YARN et Hive, et pipeline distribué (batch et streaming) avec Spark, Docker, Java et Scala.
+- **Administration VMware ESXi 6.5 :** architecture de virtualisation, datastores, supervision et stratégie de sauvegarde au sein d'une équipe de 11 étudiants.
+- **Détection de fraude Mobile Money (DataTour 2026) :** gradient boosting sur données transactionnelles réelles, optimisation de la PR AUC.
+- **Bases NoSQL MongoDB et Neo4j :** modélisation de graphes et de documents, jeux de requêtes pratiques.
+
 ## 🌱 Ce que j'apprends en ce moment
 
+- Certification Data Engineer (en cours).
 - Vision par ordinateur et détection d'objets avec YOLO.
 - Exécution locale de modèles de langage (llama.cpp, quantification) sur du matériel modeste.
-- Analyse géospatiale et construction d'indices composites.
 
 ## 🛠️ Compétences techniques
 
-#### Data & Intelligence Artificielle
+#### Bases de données
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/YOLO-Vision_par_ordinateur-00FFFF?style=flat&logoColor=black" alt="YOLO">
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" alt="Google Colab">
+  <img src="https://img.shields.io/badge/SQL-Oracle-F80000?style=flat&logo=oracle&logoColor=white" alt="SQL Oracle">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white" alt="Neo4j">
+  <img src="https://img.shields.io/badge/ReplicaSet-Bases_r%C3%A9parties-13AA52?style=flat" alt="ReplicaSet">
+  <img src="https://img.shields.io/badge/Mod%C3%A9lisation-Normalisation-4ECDC4?style=flat" alt="Modélisation">
+  <img src="https://img.shields.io/badge/Sauvegarde-Restauration-FF6B6B?style=flat" alt="Sauvegarde et restauration">
 </p>
 
-#### Réseaux & Télécommunications
+#### Traitement des données, Big Data & Cloud
 <p>
+  <img src="https://img.shields.io/badge/ETL-Data_Warehouse-45B7D1?style=flat" alt="ETL et data warehouse">
+  <img src="https://img.shields.io/badge/Hadoop-HDFS_%2B_YARN-66CCFF?style=flat&logo=apachehadoop&logoColor=black" alt="Hadoop">
+  <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat&logo=apachehive&logoColor=black" alt="Hive">
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" alt="Spark">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS">
+</p>
+
+#### IA & Analyse
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF9900?style=flat" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/Syst%C3%A8mes_experts-Inf%C3%A9rence-9B59B6?style=flat" alt="Systèmes experts">
+  <img src="https://img.shields.io/badge/YOLO-Vision_par_ordinateur-00FFFF?style=flat&logoColor=black" alt="YOLO">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau">
+  <img src="https://img.shields.io/badge/CVAT-Labellisation-2E9EF7?style=flat" alt="CVAT">
+</p>
+
+#### Langages & Outils
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white" alt="Scala">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat&logo=microsoftoffice&logoColor=white" alt="Microsoft 365">
+</p>
+
+#### Réseaux & Virtualisation
+<p>
+  <img src="https://img.shields.io/badge/VMware-ESXi_6.5-607078?style=flat&logo=vmware&logoColor=white" alt="VMware ESXi">
   <img src="https://img.shields.io/badge/5G-Open5GS-0A66C2?style=flat" alt="Open5GS">
   <img src="https://img.shields.io/badge/SDN-Mininet%20%2B%20Floodlight-FF6B6B?style=flat" alt="SDN">
-  <img src="https://img.shields.io/badge/NFV-Virtualisation-4ECDC4?style=flat" alt="NFV">
-  <img src="https://img.shields.io/badge/VoIP-Routage-45B7D1?style=flat" alt="VoIP">
-</p>
-
-#### Développement & Outils
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/ToIP-Routage-45B7D1?style=flat" alt="ToIP et routage">
 </p>
