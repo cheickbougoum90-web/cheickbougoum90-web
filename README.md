@@ -15,10 +15,10 @@
 Élève ingénieur en dernière année à l'**ESMT Dakar** (École Supérieure Multinationale des Télécommunications), spécialisé en **Données et Intelligence Artificielle (InDIA)**. Je suis basé à Dakar, au Sénégal, avec des attaches au Burkina Faso.
  
 J'ai une pratique concrète de la conception, de l'administration et de l'optimisation de bases de données SQL et NoSQL.
-
-Je suis passionné par les techniques de **machine learning** et de deep learning, de la théorie à la mise en production : modèles de gradient boosting avec optimisation de la PR AUC pour la détection de fraude, détection d'objets avec YOLO, et exécution locale de modèles de langage sur du matériel modeste. J'aime comprendre pourquoi un modèle fonctionne, mesurer ses performances sérieusement et l'adapter aux contraintes du terrain.
-
-Je m'intéresse aux innovations adaptées au contexte ouest-africain : agriculture intelligente, sécurité en zone rurale, diagnostic de santé en environnement à faibles ressources.
+ 
+Côté **data analyste**, j'aime transformer des données brutes en informations utiles à la décision : processus ETL, modélisation en data warehouse, tableaux de bord avec Power BI et Tableau, et système d'information décisionnel sur des données agricoles du Sénégal.
+ 
+Je suis passionné par les techniques de **machine learning** et de deep learning, de la théorie à la pratique : modèles de gradient boosting avec optimisation de la PR AUC pour la détection de fraude, détection d'objets avec YOLO, et exécution locale de modèles de langage sur du matériel modeste. J'aime comprendre pourquoi un modèle fonctionne, mesurer ses performances rigoureusement et l'adapter aux contraintes du terrain.
 
 ### [🏆 Découvrez mon portfolio complet](https://cheickbougoum90-web.github.io/)
 
