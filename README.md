@@ -1,4 +1,4 @@
-## Bonjour, je suis BOUGOUM Cheïck Abdoul Aziz 👋
+## Salut, je suis BOUGOUM Cheïck Abdoul Aziz 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=%C3%89l%C3%A8ve+ing%C3%A9nieur+Donn%C3%A9es+%26+IA+%C3%A0+l'ESMT;Bases+de+donn%C3%A9es+SQL+%26+NoSQL;%C3%80+la+recherche+d'un+stage+Ing%C3%A9nieur+Base+de+Donn%C3%A9es;Dakar,+S%C3%A9n%C3%A9gal+%F0%9F%87%B8%F0%9F%87%B3" alt="Typing SVG" />
@@ -13,9 +13,11 @@
  
 Élève ingénieur en dernière année à l'**ESMT Dakar** (École Supérieure Multinationale des Télécommunications), spécialisé en **Données et Intelligence Artificielle (InDIA)**. Je suis basé à Dakar, au Sénégal, avec des attaches au Burkina Faso.
  
-J'ai une pratique concrète de la conception, de l'administration et de l'optimisation de bases de données SQL et NoSQL. Rigoureux et méthodique, je recherche un **stage d'Ingénieur Base de Données** pour contribuer à la performance, à la disponibilité et à la sécurité des bases de données d'un groupe multi-pays. Je suis disponible en télétravail ou en présentiel.
- 
-Ma formation initiale en télécommunications (transmission numérique, ToIP, routage, virtualisation, systèmes embarqués) nourrit mon travail en données et en IA. Je m'intéresse aux innovations adaptées au contexte ouest-africain : agriculture intelligente, sécurité en zone rurale, diagnostic de santé en environnement à faibles ressources.
+J'ai une pratique concrète de la conception, de l'administration et de l'optimisation de bases de données SQL et NoSQL.
+
+Je suis passionné par les techniques de **machine learning** et de deep learning, de la théorie à la mise en production : modèles de gradient boosting avec optimisation de la PR AUC pour la détection de fraude, détection d'objets avec YOLO, et exécution locale de modèles de langage sur du matériel modeste. J'aime comprendre pourquoi un modèle fonctionne, mesurer ses performances sérieusement et l'adapter aux contraintes du terrain.
+
+Je m'intéresse aux innovations adaptées au contexte ouest-africain : agriculture intelligente, sécurité en zone rurale, diagnostic de santé en environnement à faibles ressources.
 
 ### [🏆 Découvrez mon portfolio complet](https://cheickbougoum90-web.github.io/)
 
