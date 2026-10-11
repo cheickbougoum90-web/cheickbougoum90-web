@@ -1,7 +1,7 @@
 ## Salut, je suis BOUGOUM Cheïck Abdoul Aziz 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=%C3%89tudiant+ing%C3%A9nieur+Data+%26+IA;T%C3%A9l%C3%A9coms+%2B+Intelligence+Artificielle;Innovation+pour+le+d%C3%A9veloppement+de+l'Afrique+de+l'Ouest;Dakar,+S%C3%A9n%C3%A9gal" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Engineer;Data+Scientist;Data+Analyste" alt="Typing SVG" />
 </div>
 
 <p align="center">
